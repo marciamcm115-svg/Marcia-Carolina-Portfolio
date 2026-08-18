@@ -1,37 +1,9 @@
 {
-  "hero": {
-    "foto-principal": "images/hero/foto-principal.jpg"
-  },
-  "about": {
-    "about-1": "images/about/about-1.jpg"
-  },
-  "projects": {
-    "presto-carteleria": {
-      "nombre": "Presto Cartelería",
-      "imagenes": [
-        "images/presto-carteleria/img-1.jpg",
-        null,
-        null,
-        null
-      ]
-    },
-    "noe-comodoro": {
-      "nombre": "Noe Comodoro",
-      "imagenes": [
-        "images/noe-comodoro/img-1.jpg",
-        "images/noe-comodoro/img-2.jpg",
-        null,
-        null
-      ]
-    },
-    "delicias-caseras": {
-      "nombre": "Delicias Caseras - Hugo Ruiz",
-      "imagenes": [
-        "images/delicias-caseras/img-1.jpg",
-        null,
-        null,
-        null
-      ]
-    }
-  }
+  "hero": "images/hero/foto-principal.jpg",
+  "about": "images/about/about-1.jpg",
+  "projects": [
+    "presto-carteleria",
+    "noe-comodoro",
+    "delicias-caseras"
+  ]
 }

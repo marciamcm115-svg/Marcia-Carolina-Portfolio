@@ -1,0 +1,29 @@
+{
+  "featured": true,
+  "summaryColor": "c-white",
+  "ptag": "Meta Ads · Gestión integral · en curso",
+  "title": "@prestocarteleria",
+  "description": "Cartelería y señalética para negocios de Comodoro Rivadavia: letreros luminosos, gráfica vehicular y fachadas. Gestión completa de contenido y campañas de Meta Ads con segmentación B2B.",
+  "stats": [
+    {
+      "n": "17.177",
+      "lbl": "Visualizaciones en una publicación promocionada"
+    },
+    {
+      "n": "8.118",
+      "lbl": "Alcance de la misma publicación"
+    }
+  ],
+  "tags": [
+    "Meta Ads",
+    "Segmentación B2B",
+    "Gestión de redes"
+  ],
+  "layout": "natural",
+  "images": [
+    {
+      "src": "img-1.jpg",
+      "alt": "Perfil de Presto Cartelería"
+    }
+  ]
+}

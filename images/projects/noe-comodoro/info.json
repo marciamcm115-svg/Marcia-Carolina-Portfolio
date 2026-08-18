@@ -1,0 +1,49 @@
+{
+  "featured": true,
+  "summaryColor": "c-dark",
+  "ptag": "Rebranding completo y Página Web",
+  "title": "@noe_comodoro",
+  "description": "Rediseño de identidad para una cuenta de belleza, cosmética y joyería sin línea gráfica clara. Se definió el posicionamiento, se reorganizó la bio y los highlights, y se integró la tienda online. Además, también realizo el armado y diseño de páginas web completas.",
+  "stats": [
+    {
+      "n": "1.623",
+      "lbl": "Seguidores"
+    },
+    {
+      "n": "7,5 mil",
+      "lbl": "Vistas de perfil / 30 días"
+    }
+  ],
+  "tags": [
+    "Identidad visual",
+    "Diseño web",
+    "Tienda online"
+  ],
+  "layout": "natural",
+  "images": [
+    {
+      "src": "img-2.jpg",
+      "alt": "Feed antes del rebranding"
+    },
+    {
+      "src": "img-1.jpg",
+      "alt": "Perfil después del rebranding"
+    },
+    {
+      "src": "web-1.jpeg",
+      "alt": "Página Web Noe - Diseño"
+    },
+    {
+      "src": "web-2.jpeg",
+      "alt": "Página Web Noe - Productos"
+    },
+    {
+      "src": "web-3.jpeg",
+      "alt": "Página Web Noe - Tienda"
+    },
+    {
+      "src": "web-4.jpeg",
+      "alt": "Página Web Noe - Checkout"
+    }
+  ]
+}

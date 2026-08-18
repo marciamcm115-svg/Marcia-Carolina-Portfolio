@@ -1,0 +1,46 @@
+{
+  "featured": true,
+  "summaryColor": "c-red",
+  "ptag": "Sector gastronómico · imagen de marca",
+  "title": "Delicias Caseras — Hugo Ruiz",
+  "description": "Para este cliente del rubro gastronómico participé también frente a cámara: grabé un reel invitando a la gente a un evento (Comodoro Food Truck), a pedido del cliente. El video acumula miles de vistas y una interacción muy por encima del promedio de la cuenta.",
+  "stats": [
+    {
+      "n": "4.426",
+      "lbl": "Visualizaciones del reel"
+    },
+    {
+      "n": "97",
+      "lbl": "Interacciones (likes, comentarios, envíos y guardados)"
+    }
+  ],
+  "tags": [
+    "Producción frente a cámara",
+    "Guion",
+    "Reels"
+  ],
+  "instagram_sync": {
+    "media_id": "TU_MEDIA_ID_AQUI",
+    "mapping": [
+      {
+        "api_field": "play_count",
+        "lbl": "Visualizaciones del reel"
+      },
+      {
+        "api_field": "engagement",
+        "lbl": "Interacciones (likes, comentarios, envíos y guardados)"
+      }
+    ]
+  },
+  "layout": "default",
+  "images": [
+    {
+      "src": "img-1.jpg",
+      "alt": "Reel de invitación para Delicias Caseras Hugo Ruiz"
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.instagram.com/reel/Db6t5x2RoHH/embed"
+    }
+  ]
+}
